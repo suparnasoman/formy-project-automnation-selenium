@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_04/pom.xml" />
+        <option value="$PROJECT_DIR$/06_02/end/pom.xml" />
+        <option value="$PROJECT_DIR$/06_02/start/pom.xml" />
+        <option value="$PROJECT_DIR$/06_03/end/pom.xml" />
+        <option value="$PROJECT_DIR$/06_03/start/pom.xml" />
+        <option value="$PROJECT_DIR$/06_04/end/pom.xml" />
+        <option value="$PROJECT_DIR$/06_04/start/pom.xml" />
+        <option value="$PROJECT_DIR$/07_04/pom.xml" />
+        <option value="$PROJECT_DIR$/02_06(Alert)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_06(Alert)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_03(Date Picker)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/04_03(Date Picker)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_05(File Upload)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/04_05(File Upload)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_03 (Autocomplete)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_03 (Autocomplete)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_05(Active Window)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_05(Active Window)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_08(Drag and Drop)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_08(Drag and Drop)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02(Radio Buttons)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/04_02(Radio Buttons)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/04_04(Dropdown Menu)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/04_04(Dropdown Menu)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/05_02(Implicit Wait)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/05_02(Implicit Wait)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/05_03(Explicit Wait)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/05_03(Explicit Wait)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_04(Scroll to Element)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_04(Scroll to Element)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_07(JavaScript Execution/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_07(JavaScript Execution/start/pom.xml" />
+        <option value="$PROJECT_DIR$/06_01(Automating a Workflow)/end/pom.xml" />
+        <option value="$PROJECT_DIR$/06_01(Automating a Workflow)/start/pom.xml" />
+        <option value="$PROJECT_DIR$/02_02 (Keyboard and Mouse Input/end/pom.xml" />
+        <option value="$PROJECT_DIR$/02_02 (Keyboard and Mouse Input/start/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

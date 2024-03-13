@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01_04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01_04/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_02 (Keyboard and Mouse Input/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_02 (Keyboard and Mouse Input/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_02 (Keyboard and Mouse Input/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_02 (Keyboard and Mouse Input/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_03 (Autocomplete)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_03 (Autocomplete)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_03 (Autocomplete)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_03 (Autocomplete)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_04(Scroll to Element)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_04(Scroll to Element)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_04(Scroll to Element)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_04(Scroll to Element)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_05(Active Window)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_05(Active Window)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_05(Active Window)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_05(Active Window)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_06(Alert)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_06(Alert)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_06(Alert)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_06(Alert)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_07(JavaScript Execution/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_07(JavaScript Execution/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_07(JavaScript Execution/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_07(JavaScript Execution/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_08(Drag and Drop)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_08(Drag and Drop)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_08(Drag and Drop)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02_08(Drag and Drop)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02(Radio Buttons)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02(Radio Buttons)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02(Radio Buttons)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_02(Radio Buttons)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03(Date Picker)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03(Date Picker)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03(Date Picker)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_03(Date Picker)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_04(Dropdown Menu)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_04(Dropdown Menu)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_04(Dropdown Menu)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_04(Dropdown Menu)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_05(File Upload)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_05(File Upload)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_05(File Upload)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04_05(File Upload)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_02(Implicit Wait)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_02(Implicit Wait)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_02(Implicit Wait)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_02(Implicit Wait)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_03(Explicit Wait)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_03(Explicit Wait)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_03(Explicit Wait)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05_03(Explicit Wait)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_01(Automating a Workflow)/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_01(Automating a Workflow)/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_01(Automating a Workflow)/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_01(Automating a Workflow)/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_02/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_02/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_02/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_02/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_03/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_03/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_03/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_03/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_04/end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_04/end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_04/start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06_04/start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_04/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07_04/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
